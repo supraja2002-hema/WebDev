@@ -1,0 +1,42 @@
+.logo img{ /*To arrange the logo*/
+	float: left;
+}
+ul{
+	list-style: none;
+}
+ol{
+	font-size: 20px;
+	font-family: Nunito;
+}
+li{
+	display: inline; /*keeps the items in one horizontal line*/
+	margin: 100px;
+}
+li a{
+	color: deeppink;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: Nunito;
+}
+li a:hover{
+    color: royalblue;
+	text-decoration: none;
+}
+header{
+	background-color: turquoise;
+	padding: 10px;
+	text-align: right;
+}
+h1{
+	text-align: center;
+	font-family: Libre Baskerville;
+	font-size: 30px;
+	color: mistyrose;
+	background-color: orchid;
+}
+h4{
+	font-family: Libre Baskerville;
+	font-size: 25px;
+	color: darkmagenta;
+	padding-left: 10px;
+}
